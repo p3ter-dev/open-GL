@@ -53,11 +53,6 @@ Ensure you have:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🤝 Contributions
 Feel free to contribute by:
 1. Forking the repository 🍴
@@ -67,4 +62,3 @@ Feel free to contribute by:
 ---
 
 🔹 **Happy Coding! 🎨🚀**
-
